@@ -1,13 +1,13 @@
 'use client'
 import { useState, useEffect } from 'react';
-import { createClient } from '@supabase/supabase-js';
+import { createClient, Session } from '@supabase/supabase-js'; // Session tipini import et
 import { Auth } from '@supabase/auth-ui-react';
 import { ThemeSupa } from '@supabase/auth-ui-shared';
 
 const supabase = createClient('https://fufycvedmabhobwzlaur.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ1ZnljdmVkbWFiaG9id3psYXVyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDAwNTQ2NTksImV4cCI6MjA1NTYzMDY1OX0.sPpCk4E5zDANnCqYX5GJS-kpAPnf38xXWg5Kpxk25AA');
 
 export default function Home() {
-  const [session, setSession] = useState(null);
+  const [session, setSession] = useState<Session | null>(null); // useState tipini belirttik
 
   useEffect(() => {
     supabase.auth.getSession().then(({ data: { session } }) => {
