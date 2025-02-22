@@ -1,0 +1,103 @@
+{
+    "Porsche": [
+      {
+        "model": "356",
+        "slug": "porsche-356",
+        "release_date": "1948-06-08",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Porsche_356_Coupe.jpg",
+        "purpose": "Porsche'nin ilk seri üretim spor otomobili; hafif ve aerodinamik yapısıyla günlük kullanım ve yarışlar için tasarlandı."
+      },
+      {
+        "model": "911",
+        "slug": "porsche-911",
+        "release_date": "1964-09-12",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/1964_Porsche_911_2.0_Coupe.jpg",
+        "purpose": "Yüksek performanslı spor otomobil; hem yol hem de pist kullanımı için geliştirildi."
+      },
+      {
+        "model": "911 Turbo",
+        "slug": "porsche-911-turbo",
+        "release_date": "1975-05-01",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Porsche_911_Turbo_3.0_%28930%29.jpg",
+        "purpose": "Turboşarjlı motoruyla yüksek performans sunan spor otomobil; hem yol hem de yarış kullanımı için tasarlandı."
+      },
+      {
+        "model": "918 Spyder",
+        "slug": "porsche-918-spyder",
+        "release_date": "2015-06-01",
+        "image_url": "https://www.stuttcars.com/wp-content/uploads/2021/09/Porsche-918-Spyder-Weissach-Package-PTS-Arena-Red-1.jpg",
+        "purpose": "Hibrit motor teknolojisiyle yüksek performans sunan sınırlı üretim süper spor otomobil."
+      },
+      {
+        "model": "924",
+        "slug": "porsche-924",
+        "release_date": "1976-11-01",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Porsche_924_front_20080220.jpg",
+        "purpose": "Porsche'nin giriş seviyesi spor otomobili; günlük kullanım ve uzun yolculuklar için tasarlandı."
+      },
+      {
+        "model": "928",
+        "slug": "porsche-928",
+        "release_date": "1977-01-01",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Porsche_928_front_20080220.jpg",
+        "purpose": "Lüks ve konforu bir araya getiren GT sınıfı spor otomobil; uzun mesafeli sürüşler için ideal."
+      },
+      {
+        "model": "944",
+        "slug": "porsche-944",
+        "release_date": "1982-01-01",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Porsche_944_S2.jpg",
+        "purpose": "Orta sınıf spor otomobil; dengeli sürüş ve performans sunar."
+      },
+      {
+        "model": "959",
+        "slug": "porsche-959",
+        "release_date": "1986-01-01",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Porsche_959.jpg",
+        "purpose": "Teknolojik yeniliklerle donatılmış süper spor otomobil; yüksek hız ve performans odaklı."
+      },
+      {
+        "model": "968",
+        "slug": "porsche-968",
+        "release_date": "1992-01-01",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Porsche_968.jpg",
+        "purpose": "944 modelinin geliştirilmiş versiyonu; günlük kullanım ve performansı bir araya getirir."
+      },
+      {
+        "model": "Boxster",
+        "slug": "porsche-boxster",
+        "release_date": "1996-01-01",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Porsche_986_Boxster_S.jpg",
+        "purpose": "İki kişilik roadster; üstü açık sürüş keyfi ve sportif performans sunar."
+      },
+      {
+        "model": "Cayenne",
+        "slug": "porsche-cayenne",
+        "release_date": "2002-12-20",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Porsche_Cayenne_S_%28Type_9PA%29.jpg",
+        "purpose": "Lüks SUV; hem şehir içi hem de off-road kullanımına uygun olarak tasarlandı."
+      },
+      {
+        "model": "Macan",
+        "slug": "porsche-macan",
+        "release_date": "2014-01-01",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Porsche_Macan_S_%2811412411876%29.jpg",
+        "purpose": "Kompakt lüks SUV; sportif sürüş dinamikleri ve günlük kullanım için ideal."
+      },
+      {
+        "model": "Panamera",
+        "slug": "porsche-panamera",
+        "release_date": "2009-01-01",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Porsche_Panamera_4S_%28970%29_%E2%80%93_Frontansicht%2C_13._Juni_2015%2C_D%C3%BCsseldorf.jpg",
+        "purpose": "Lüks dört kapılı sedan; performans ve konforu bir araya getirir."
+      },
+      {
+        "model": "Taycan",
+        "slug": "porsche-taycan",
+        "release_date": "2019-09-04",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Porsche_Taycan_IMG_0773.jpg",
+        "purpose": "Tamamen elektrikli spor sedan; yüksek performans ve sıfır emisyonlu sürüş deneyimi sunar."
+      }
+    ]
+  }
+  
